@@ -1,0 +1,1 @@
+type RegisterCredentials = { email: string }
